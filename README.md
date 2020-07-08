@@ -3,4 +3,4 @@
 - Flask to build the app
 - uWSGI as product server and
 - requests to exercise the server 
-- Lastly , "WireShark" to analysis the protocol and the network.
+- And "WireShark" to analysis the protocol and the network.
